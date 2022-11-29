@@ -1,0 +1,23 @@
+{
+  "name": "react-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio using react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aspzs/React-Portfolio.git"
+  },
+  "keywords": [
+    "react",
+    "portfolio"
+  ],
+  "author": "Arnol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aspzs/React-Portfolio/issues"
+  },
+  "homepage": "https://github.com/aspzs/React-Portfolio#readme"
+}
